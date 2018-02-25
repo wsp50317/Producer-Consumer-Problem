@@ -16,7 +16,7 @@ PP: Producer's ID
 
 NNN: The order number that the item is produced
 
-RR: Random number(0 to 2 to the power "Total execute time")
+RR: Random number(1 to 2 to the power "Total execute time")
 
 ## Built With
 
