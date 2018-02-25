@@ -5,10 +5,18 @@ This is the homework of Operating System course,developed by Pthread in Visual s
 
 ## Getting Started
 
-Open the project and input "(Total execute time) (number of producers) (numbers of comsumers)".
+Open the project and input "(Total execute time) (quantity of producers) (quantity of comsumers)".
 The process of execution will be shown on the console window.
 
 ![image](https://github.com/wsp50317/Producer-Consumer-Problem/blob/master/example.png)
+
+The item's number is "PP NNN RR".
+
+PP: Producer's ID
+
+NNN: The order number that the item is produced
+
+RR: Random number(0 to 2 to the power "Total execute time")
 
 ## Built With
 
